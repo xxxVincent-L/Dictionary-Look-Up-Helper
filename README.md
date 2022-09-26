@@ -5,14 +5,14 @@
 
 ## Table of Contents
 
-- [Intro & Motivation](#Intro & Motivation)
-- [Install & Quick Start](#Install & Quick Start)
-- [Example](Example)
-- [Future Work](Future Work)
+  - [Intro & Motivation](#intro--motivation)
+  - [Install & Quick Start](#install--quick-start)
+  - [Example](#example)
+  - [Future Work](#future-work)
 
 ## Intro & Motivation
 
-The dictionary look up helper aims to 
+The dictionary look up helper aims to
 
 **Keep the words and relevant info as a markdown file which is convenient for further summary.**
 
